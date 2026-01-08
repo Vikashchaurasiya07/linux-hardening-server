@@ -55,7 +55,10 @@ sudo whoami
 ```
 
 **Screenshot:**
-screenshots/user_creation
+
+<img width="1046" height="591" alt="user_creation" src="https://github.com/user-attachments/assets/bee9c5de-0178-4f17-8547-8f67b9cd6f1b" />
+
+<img width="1034" height="764" alt="user_creation_1" src="https://github.com/user-attachments/assets/7a8bf6df-6c25-4af0-bb6b-9f16bcd1a6a1" />
 
 ---
 
@@ -170,6 +173,7 @@ linux-server-hardening/
 │   ├─ ufw_status.png
 │   └─ final_verification.png
 ```
+
 
 
 
