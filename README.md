@@ -55,7 +55,7 @@ sudo whoami
 ```
 
 **Screenshot:**
-`screenshots/user_creation`
+screenshots/user_creation
 
 ---
 
@@ -170,6 +170,7 @@ linux-server-hardening/
 │   ├─ ufw_status.png
 │   └─ final_verification.png
 ```
+
 
 
 
