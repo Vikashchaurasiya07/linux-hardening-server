@@ -85,7 +85,8 @@ ssh root@localhost
 ```
 
 **Screenshot:**
-`screenshots/ssh_disabled.png`
+
+<img width="1124" height="721" alt="ssh_disabled png" src="https://github.com/user-attachments/assets/f5fd0310-44a2-4b3d-9fa4-3f63afaf831d" />
 
 ---
 
@@ -110,7 +111,11 @@ sudo ss -tuln
 * No unexpected ports open
 
 **Screenshot:**
-`screenshots/process_port_monitoring.png`
+
+<img width="1414" height="426" alt="process_port_monitoring" src="https://github.com/user-attachments/assets/3252cf8d-abce-46fc-8d23-499c02668f34" />
+
+<img width="1457" height="360" alt="process_port_monitoring1" src="https://github.com/user-attachments/assets/e1366e81-d8b0-408b-b14f-de39ad8020f2" />
+
 
 ---
 
@@ -137,7 +142,8 @@ sudo ufw status verbose
 * Only SSH port allowed
 
 **Screenshot:**
-`screenshots/ufw_status.png`
+
+<img width="1074" height="575" alt="ufw_status" src="https://github.com/user-attachments/assets/ac32e6bb-86d1-49f2-9a46-7da87130c62c" />
 
 ---
 
@@ -148,7 +154,8 @@ sudo ufw status verbose
 * Processes monitored successfully
 
 **Screenshot:**
-`screenshots/final_verification.png`
+
+<img width="918" height="275" alt="final_verification" src="https://github.com/user-attachments/assets/86380580-d5d3-4e06-be73-48b015ec5def" />
 
 ---
 
@@ -173,6 +180,7 @@ linux-server-hardening/
 │   ├─ ufw_status.png
 │   └─ final_verification.png
 ```
+
 
 
 
