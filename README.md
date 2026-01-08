@@ -168,18 +168,7 @@ sudo ufw status verbose
 
 ---
 
-## Folder Structure
 
-```
-linux-server-hardening/
-├─ README.md
-├─ screenshots/
-│   ├─ user_creation.png
-│   ├─ ssh_disabled.png
-│   ├─ process_port_monitoring.png
-│   ├─ ufw_status.png
-│   └─ final_verification.png
-```
 
 
 
